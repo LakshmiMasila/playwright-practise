@@ -1,13 +1,13 @@
 # playwright-practise
-**Playwright Automation Practice**
+##**Playwright Automation Practice**
 This repository contains my Playwright automation testing practice using TypeScript.
 It is used to learn and practice end-to-end (E2E) web automation, test organization, assertions, locators, browser automation, and Playwright features.
 **Tech Stack**
-Playwright
-TypeScript
-Node.js
-npm
-Git & GitHub
+-Playwright
+-TypeScript
+-Node.js
+-npm
+-Git & GitHub
 **Project Structure**
 playwright-practise/
 │
@@ -22,6 +22,7 @@ playwright-practise/
 ├── playwright.config.ts
 ├── package.json
 └── package-lock.json
+                                                                              
 
 **What I Am Practicing**
 Day 1 - Introduction to Playwright and Typescript and setup
