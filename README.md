@@ -5,11 +5,11 @@ This repository contains my Playwright automation testing practice using TypeScr
 It is used to learn and practice end-to-end (E2E) web automation, test organization, assertions, locators, browser automation, and Playwright features.
 
 ## Tech Stack
--Playwright
--TypeScript
--Node.js
--npm
--Git & GitHub
+- Playwright
+- TypeScript
+- Node.js
+- npm
+- Git & GitHub
 
 ---
 
@@ -46,7 +46,7 @@ playwright-practise/
 ---
 
 ## Learning Goal
-The goal of this repository is to build practical experience with Playwright and TypeScript and gradually develop a maintainable automation test framework.
+The goal of this repository is to build practical experience with **Playwright** and **TypeScript** and gradually develop a maintainable automation test framework.
 
 ---
 ## Repository status
